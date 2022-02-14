@@ -4,7 +4,12 @@ description: This resource provides solutions to the eighth problem set on engin
   mechanics II.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/149b78e4a01a939bab5748614fefc87c_ps8_solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps8_solutions.pdf
+type: OCWFile
 uid: 149b78e4-a01a-939b-ab57-48614fefc87c
 ---

@@ -4,7 +4,12 @@ description: This resource provides a number problems for the last recitation, a
   with their solutions.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/a7991ea2e31fe5d509ab4ae467d17f97_recitation10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recitation10.pdf
+type: OCWFile
 uid: a7991ea2-e31f-e5d5-09ab-4ae467d17f97
 ---

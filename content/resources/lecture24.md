@@ -4,7 +4,12 @@ description: This resource provides information on uniform flow computation, and
   and hydraulic grade lines.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/1acddf1865783b082af137cdae04e648_lecture24.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture24.pdf
+type: OCWFile
 uid: 1acddf18-6578-3b08-2af1-37cdae04e648
 ---

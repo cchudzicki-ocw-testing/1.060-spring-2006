@@ -4,7 +4,12 @@ description: This resource provides a derivation of the Bernoulli equation, and 
   force.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/9c06f3cd2a34e31f3c77b53f630d726b_lecture7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture7.pdf
+type: OCWFile
 uid: 9c06f3cd-2a34-e31f-3c77-b53f630d726b
 ---

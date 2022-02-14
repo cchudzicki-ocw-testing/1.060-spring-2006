@@ -4,7 +4,12 @@ description: 'This resource provides information on recitation topic: review of 
   It also provides information on pressure variation and a review of dimensional analysis.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/3b6bd7c763c7278ab5d9878c27a14831_recitation1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recitation1.pdf
+type: OCWFile
 uid: 3b6bd7c7-63c7-278a-b5d9-878c27a14831
 ---

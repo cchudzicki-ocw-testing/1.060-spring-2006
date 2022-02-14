@@ -4,7 +4,12 @@ description: 'This resource provides a couple of recitation problems on topic: d
   response of a floating body.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/1d00345c6cd110e7dd61852cacece0f5_recitation7_prob.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recitation7_prob.pdf
+type: OCWFile
 uid: 1d00345c-6cd1-10e7-dd61-852cacece0f5
 ---

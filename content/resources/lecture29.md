@@ -4,7 +4,12 @@ description: This resource provides information on gradually varied open channel
   uniform non-varying flow.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/b6688d158adfcda3e2e12fc0299135d3_lecture29.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture29.pdf
+type: OCWFile
 uid: b6688d15-8adf-cda3-e2e1-2fc0299135d3
 ---
