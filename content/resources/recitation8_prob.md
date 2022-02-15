@@ -10,6 +10,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: recitation8_prob.pdf
-type: OCWFile
 uid: b3694e9d-435e-4e03-eae8-5c0b8f3488ec
 ---

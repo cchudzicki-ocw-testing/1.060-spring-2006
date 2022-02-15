@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: hin_on_prob_solv.pdf
-type: OCWFile
 uid: af0c8f88-693a-8009-8ed1-cb196dc2c60f
 ---

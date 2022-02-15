@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps7_solutions.pdf
-type: OCWFile
 uid: 661e0d81-f685-7448-6c3e-cf066a2f4611
 ---

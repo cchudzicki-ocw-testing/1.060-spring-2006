@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: sampletest_2.pdf
-type: OCWFile
 uid: 76dd466c-82b4-fd08-1432-aa56f96553e8
 ---
