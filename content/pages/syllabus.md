@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course logistics, lectures,
+  recitations, text, homework, exams, and grading information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

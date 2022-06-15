@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a set of recitation problems and solutions for
+  selected problems.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
