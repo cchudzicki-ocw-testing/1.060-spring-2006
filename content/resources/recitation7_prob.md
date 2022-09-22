@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/1d00345c6cd110e7dd6185
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

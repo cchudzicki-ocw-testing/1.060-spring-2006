@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/aec6be6a8442e5883afc01
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

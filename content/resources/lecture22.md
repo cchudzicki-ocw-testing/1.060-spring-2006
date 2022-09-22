@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/009850cb15625de6ec4316
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
